@@ -1,5 +1,5 @@
 
-
+//nathan
 void mainMenu(int profit);
 void ChooseFoodToAdd(int *nomor);
 int inputPrice();
